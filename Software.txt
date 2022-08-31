@@ -1,0 +1,7 @@
+*XAMP (apache/mysql)
+
+*Mysql WorkBench
+
+*Extensão para visualização no formato JSON no google chrome (json viewer)
+
+*Sublime

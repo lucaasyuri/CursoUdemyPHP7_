@@ -1,0 +1,54 @@
+***ALT+SHIFT + 2: divide tela do sublime em 2***
+
+print_r(): exibe o array e sua estrutura
+
+var_dump(): mostra o tipo de dado
+
+unset(): removendo da memória
+
+get(): lê
+
+set(): altera
+
+use: utilizar namespace
+
+\: voltar na raiz
+
+---------------------------------------------------------------------------------------------------
+
+:: usado para acessar métodos estáticos
+
+-> usado par aacessar métodos normais
+
+---------------------------------------------------------------------------------------------------
+
+*include/require = inclui codigo da função*
+
+include: tenta funcionar, mesmo que o arquivo não exista ou que esteja com algum problema
+
+
+require: obriga que o arquivo exista/funcionando (arquivo que está sendo incluído, caso contrário ele para a execução do código)
+
+require_once/include_once: ignora uma segunda chamada da função, caso tenha 2 chamadas iguais. ex: include "exemplo-01.php"
+
+---------------------------------------------------------------------------------------------------
+
+//mkdir(): criar um diretório
+
+//rmdir(): remove um diretório
+
+//fopen(): criando arquivo ("caminho do arquivo", "como quer usar o arquivo (ler/alterar)")
+
+//fwrite("arquivo que estou usando/resource", "dados que eu quero colocar dentro do arquivo")
+
+//fclose(): fecha manipulador
+
+//unlink(): exclui arquivo
+
+//scandir: lê um diretório e transforma em um array
+
+----------------------------------------------------------------------------------------------------
+
+//setcookie(): função para definiir um cookie
+
+//json_decode(): conversão de JSON para array
